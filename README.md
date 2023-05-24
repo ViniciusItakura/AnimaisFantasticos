@@ -4,4 +4,6 @@ Ultilizei JavaScript nativo para realizar todas as animações dentro do site, c
 
 Algumas imagens:
 
-![Uploading image.png…]()![Uploading image.png…]()![Uploading image.png…]()
+![image](https://github.com/ViniciusItakura/AnimaisFantasticos/assets/76711375/b214fbe6-c74e-45a0-9960-8997407b88fd)
+![image](https://github.com/ViniciusItakura/AnimaisFantasticos/assets/76711375/5e6667d1-25ac-40f6-8a4a-bdf1b9c14b1b)
+![image](https://github.com/ViniciusItakura/AnimaisFantasticos/assets/76711375/99b8cf30-db26-4b2d-af52-125d88e37c78)
